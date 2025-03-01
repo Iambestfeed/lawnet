@@ -1,0 +1,8 @@
+found_documents.json
+legal_crawler.log
+documents_search_report.json
+
+*.log
+*.jar
+
+cache/

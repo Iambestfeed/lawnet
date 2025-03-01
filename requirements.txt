@@ -1,0 +1,7 @@
+psycopg2-binary
+python-dotenv
+alembic
+python-dateutil
+fastapi
+uvicorn
+pytest
